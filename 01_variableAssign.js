@@ -1,0 +1,25 @@
+var myFullName;
+myFullName;
+console.log(myFullName);
+var myFullName
+myFullName="Vishal Deshmukh";
+console.log(myFullName);
+var myFullName;
+myFullName="Vishal Fattesinha Deshmukh";
+console.log(myFullName);
+var myLove="I love only JS";
+console.log(myLove);
+var firstName="Vishal";
+console.log(firstName);
+var lastName="Deshmukh";
+console.log(lastName);
+var age="25";
+console.log(age);
+var address="a/p- Kasegaon Tal-Pandharpur Dist-Solapur";
+console.log(address);
+var pinCode="413304";
+console.log(pinCode);
+var gender="Male";
+console.log(gender);
+var isMarried="Unmarried";
+console.log(isMarried);
